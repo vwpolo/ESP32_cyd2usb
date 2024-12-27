@@ -1,1 +1,4 @@
-hola
+{
+  "version": "1",
+  "firmware_url": "http://example.com/firmware/firmware.bin"
+}
