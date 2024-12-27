@@ -1,4 +1,4 @@
 {
   "version": "1",
-  "firmware_url": "https://github.com/vwpolo/repo1/raw/refs/heads/main/firmware/firmware.bin"
+  "firmware_url": "https://raw.githubusercontent.com/vwpolo/repo1/refs/heads/main/firmware/file.bin"
 }
