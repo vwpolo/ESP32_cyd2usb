@@ -1,4 +1,4 @@
 {
   "version": "1",
-  "firmware_url": "http://example.com/firmware/firmware.bin"
+  "firmware_url": "https://github.com/vwpolo/repo1/raw/refs/heads/main/firmware/firmware.bin"
 }
