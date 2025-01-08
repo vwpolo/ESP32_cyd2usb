@@ -47,7 +47,7 @@ String lastTime = "";
 
 float lat = 41.65606;
 float lon = -0.87734;
-//String url="https://api.openweathermap.org/data/2.5/weather?lat=" +String(lat,6) + "&lon=" + String(lon,6) + "&units=metric&lang=es&appid=8025868f1d9529069516f98fae6e0374";
+//String url="https://api.openweathermap.org/data/2.5/weather?lat=" +String(lat,6) + "&lon=" + String(lon,6) + "&units=metric&lang=es&appid=xxx74";
 
 
 //pantallas.
