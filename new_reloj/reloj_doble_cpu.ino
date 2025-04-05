@@ -16,7 +16,7 @@ AsyncWebServer server(80);
 Preferences preferences;
 
 
-String api_code="8025868f1d9529069516f98fae6e0374";
+String api_code="xxxx";
 
 #define XPT2046_IRQ 36   // T_IRQ
 #define XPT2046_MOSI 32  // T_DIN
